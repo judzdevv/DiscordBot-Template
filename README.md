@@ -1,6 +1,9 @@
-# Important
-- Node_Modules folder not included!
-- Bot Token not included! So no, you cannot steal my bot!
+# Discord Bot Setup (JavaScript)
+Pre-Setup Discord Bot!
 
-# ZeeBot
-Don't want to pay for MEE6 premium or Carl-Bot Premium? Use ZeeBot!
+# How to Use
+- Go to https://discord.com/developers/applications
+- Press "Create a new Applocaotpm"
+- Go to Bot, and press copy token.
+- Change 'TOKEN" to the token you just copied.
+- Use node index.js to run!
