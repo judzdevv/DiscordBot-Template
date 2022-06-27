@@ -1,0 +1,15 @@
+{
+  "name": "zeebot",
+  "version": "1.0.0",
+  "description": "Moderation Discord Bot! Don't want to buy MEE6 or Carl-Bot Premium? Use ZeeBot!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "judzdevv",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^13.8.1"
+  }
+}
